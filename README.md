@@ -40,3 +40,5 @@ Tools:
 ![VS](https://img.shields.io/badge/Visual%20Studio-8661C5?logo=VisualStudio&logoColor=fff)
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=VisualStudioCode&logoColor=fff)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+
+![Xulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=-xl)
