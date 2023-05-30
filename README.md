@@ -42,3 +42,4 @@ Tools:
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 
 ![Xulai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shelley-xl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelley-xl&layout=compact)
