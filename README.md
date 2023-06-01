@@ -1,10 +1,4 @@
-# 清风徐来
-
-心之所向，素履以往，生如逆旅，一苇以航。
-
-Life is like a journey to the heart was repeated to hang a reed.
-
---- 略懂前端的后端小开发
+# 心之所向，素履以往，生如逆旅，一苇以航。
 
 About:
 
