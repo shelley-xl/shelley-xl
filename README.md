@@ -53,6 +53,7 @@ Skills:
 ![Docker](https://img.shields.io/badge/Deploy-Docker-blue)
 ![DockerCompose](https://img.shields.io/badge/Deploy-Docker%20Compose-blue)
 ![K8S](https://img.shields.io/badge/Deploy-K8S-blue)
+![Nginx](https://img.shields.io/badge/Deploy-Nginx-blue)
 ![Kestrel](https://img.shields.io/badge/Deploy-Kestrel-blue)
 ![IIS](https://img.shields.io/badge/Deploy-IIS-blue)
 
