@@ -48,6 +48,7 @@ Skills:
 ![Easyui](https://img.shields.io/badge/UI-Easyui-1E5B94)
 ![Layui](https://img.shields.io/badge/UI-Layui-1E5B94)
 ![Weui](https://img.shields.io/badge/UI-Weui-1E5B94)
+![Amaze](https://img.shields.io/badge/UI-Amazeui-1E5B94)
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-1E5B94)
 
 ![Docker](https://img.shields.io/badge/Deploy-Docker-blue)
